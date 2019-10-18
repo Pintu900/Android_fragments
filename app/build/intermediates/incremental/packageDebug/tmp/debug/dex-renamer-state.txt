@@ -1,0 +1,4 @@
+#Fri Oct 18 23:37:25 IST 2019
+base.0=/home/pintu/AndroidStudioProjects/android-advanced-starter-apps/FragmentExample_start/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
